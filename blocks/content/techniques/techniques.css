@@ -1,0 +1,9 @@
+.techniques{
+  margin: 0 auto;
+  width: 80vw;
+  text-align: center;
+  padding-top: 100px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+ }

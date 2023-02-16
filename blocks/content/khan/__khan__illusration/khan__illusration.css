@@ -1,0 +1,8 @@
+.khan__illusration{
+  padding-right: 48px;
+  width: 620px;
+  height: 608px;
+  object-fit: cover;
+  object-position: left top;
+  flex-basis: auto;
+}
